@@ -1,6 +1,16 @@
 <div align="center">
 
 # WeatherApp
+![Снимок экрана 2024-02-12 231129](https://github.com/dana1111112/WeatherApp/assets/123153439/6f1daaee-9a94-4eed-829a-cfd9d7e64567)
+![Снимок экрана 2024-02-12 231226](https://github.com/dana1111112/WeatherApp/assets/123153439/9757c16a-f68c-412e-9a2b-1a0e03174ced)
+![Снимок экрана 2024-02-12 231246](https://github.com/dana1111112/WeatherApp/assets/123153439/da58df26-ace8-4fd8-b7b9-8d50d09ecacc)
+
+![Снимок экрана 2024-02-12 231304](https://github.com/dana1111112/WeatherApp/assets/123153439/afa07df1-96e2-4edd-a5ef-73e320cd055a)
+
+![Снимок экрана 2024-02-12 231318](https://github.com/dana1111112/WeatherApp/assets/123153439/84e468bc-d7eb-4ff2-bf87-4b929c4caa94)
+
+
+
 
 </div>
 
